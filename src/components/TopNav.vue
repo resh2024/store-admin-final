@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/bestbuy.png" alt="Best Buy Logo" />
+        <img src="/bestBuy.png" alt="Best Buy Logo" />
       </a>
       Admin Portal
     </div>
@@ -42,7 +42,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
+  background-color: #1000baff;
   color: #fff;
   padding-top: 0.5rem;
   padding-left: 1rem;
