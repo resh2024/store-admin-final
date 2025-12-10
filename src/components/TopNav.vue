@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/bestBuy.png" alt="Best Buy Logo" />
+        <img src="/bestBuy2.png" alt="Best Buy Logo" />
       </a>
       Admin Portal
     </div>
